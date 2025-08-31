@@ -1,3 +1,12 @@
 # IntelliJ
 .idea/
 *.iml
+
+# Java
+*.class
+target/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
