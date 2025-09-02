@@ -1,4 +1,4 @@
-package arrays.CountEvenNumberOfDigits;
+package arrays101.CountEvenNumberOfDigits;
 
 public class Solution1StringConversion {
 

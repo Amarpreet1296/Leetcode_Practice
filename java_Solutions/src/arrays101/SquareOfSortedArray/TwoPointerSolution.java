@@ -1,4 +1,4 @@
-package arrays.SquareOfSortedArray;
+package arrays101.SquareOfSortedArray;
 
 /**
  * Already given sorted order.

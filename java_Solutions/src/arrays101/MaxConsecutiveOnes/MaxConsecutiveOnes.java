@@ -1,4 +1,4 @@
-package arrays.MaxConsecutiveOnes;
+package arrays101.MaxConsecutiveOnes;
 
 public class MaxConsecutiveOnes {
     public int findMaxConsecutiveOnes(int[] nums) {

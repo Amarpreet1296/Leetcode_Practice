@@ -1,15 +1,15 @@
-package arrays.SquareOfSortedArray;
+package arrays101.SquareOfSortedArray;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collection;
 import java.util.Collections;
 
 public class Solution1 {
 
     /**
      * N*N FOR each num
-     * And we return the sprted ary
+     * And we return the sorted array (new res array)
+     *
+     * Space and time :
      */
 
 
