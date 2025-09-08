@@ -1,6 +1,6 @@
 package BinarySearch.SqrtProblem;
 
-public class SquareRoot {
+public class Solution1SquareRoot {
 
     public  int sqrt(int x) {
         /**
